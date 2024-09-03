@@ -1,6 +1,4 @@
-# Olá, eu sou Nui 👋
-
-! https://i.pinimg.com/564x/55/20/49/55204968af55572c77f28cb9f2f692c5.jpg
+```Olá, eu sou Nui 👋
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Tenho experiência em HTML, CSS e JavaScript, e estou sempre aprendendo novas tecnologias para melhorar minhas habilidades.
 
@@ -16,3 +14,4 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 - HTML5
 - CSS3
 - JavaScript
+```
