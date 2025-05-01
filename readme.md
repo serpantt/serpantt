@@ -5,7 +5,7 @@
 
 <p align="center">
   🌱 Atualmente aprendendo <strong>Python</strong> e <strong>React</strong>.<br>
-  👨‍💻 Meus projetos estão em: <a href="https://nuiport.netlify.app/" target="_blank">nuiport.netlify.app</a>
+  👨‍💻 Meus projetos estão em: <a href="https://noemiport.netlify.app/" target="_blank">nuiport.netlify.app</a>
 </p>
 
 <p align="center">
