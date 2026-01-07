@@ -1,21 +1,18 @@
-# nui 
+# nui
 
-**Web Dev & Designer** Focada em interfaces fluidas, design minimalista e automação com bots.
+**Web Dev & Designer** Focada em interfaces minimalistas, design e automação.
 
 ---
 
-### ⚡️ 
-* **Web & Design:** Construindo experiências visuais e funcionais.
-* **Discord Bots:** Explorando automação e interação via Python.
-* **Current Stack:** React, TypeScript e Python.
+### 🍦
+* **Web & Design:** Criando interfaces fluidas e visuais.
+* **Discord Bots:** Desenvolvimento de automações em Python.
+* **Stack:** React, TypeScript e Python.
 
 ### 🛠️ Skills
-`JavaScript` · `TypeScript` · `React` · `Python` · `Sass` · `Figma` · `Git`
+`JS` · `TS` · `React` · `Python` · `Sass` · `Figma`
 
 ---
 
 ### 💬 Contato
-[Discord](https://discord.com/users/555544905473064972) 
-[Email](nuivic24@gmail.com) 
-
----
+[Discord](https://discord.com/users/555544905473064972) / [nuivic24@gmail.com](mailto:nuivic24@gmail.com) / [Portfolio](https://noemiport.netlify.app/)
