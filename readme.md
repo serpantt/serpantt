@@ -16,5 +16,6 @@
 
 ### 💬 Contato
 [Discord](https://discord.com/users/555544905473064972) 
+[Email](nuivic24@gmail.com) 
 
 ---
